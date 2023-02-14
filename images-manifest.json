@@ -1,0 +1,10 @@
+{
+"manifest": "arweave/paths",
+"version": "0.1.0",
+"paths": {
+".DS_Store":{"id":"qC1EGb3hnoLCS-tV2bwj9pTP-czU4INHxJGvVRBomvc"},
+"image2.png":{"id":"xJSQoxtbjSbnEIRAvz1K-aV17B8Mc2Fr5v008QLc91g"},
+"image3.png":{"id":"Rqy66OwxZPX2X9eF3bk5-sBzTNCY9A7tS8qRC-r_Crw"},
+"image1.png":{"id":"n4GP9tmWPAwZY_mHgzd3ltEMhgK-F9XgFPSiuNXkSEg"}
+}
+}
